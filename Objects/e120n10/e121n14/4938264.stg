@@ -1,7 +1,7 @@
 OBJECT_SHARED Models/Airport/ils.xml 121.004436 14.498881 7.95 301.21
 OBJECT_SHARED Models/Communications/vordme_1.xml 121.004436 14.498881 7.95 180
 
-OBJECT_SHARED Models/Power/generic_pylon_03.xml 121.0515777 14.4467853 8.17 307.71
-OBJECT_SHARED Models/Power/generic_pylon_03.xml 121.052642 14.4484476 0 268.15
-OBJECT_SHARED Models/Power/generic_pylon_03.xml 121.0517837 14.4485889 6.11 83.69
-OBJECT_SHARED Models/Power/generic_pylon_03.xml 121.0525819 14.446644 0 219.94
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 121.0515777 14.4467853 8.17 307.71
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 121.052642 14.4484476 0 268.15
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 121.0517837 14.4485889 6.11 83.69
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 121.0525819 14.446644 0 219.94
